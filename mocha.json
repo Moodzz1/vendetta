@@ -90,11 +90,13 @@
     "PRIMARY_800": "#1B1822",
     "PLUM_10": "#9B98AB",
     "PLUM_13": "#726F80",
+    "PLUM_14": "#5e5b6a",
     "PLUM_15": "#4A4755",
     "PLUM_16": "#363240",
     "PLUM_17": "#141119",
     "PLUM_18": "#363240",
     "PLUM_20": "#1B1822",
+    "PLUM_21": "#1b1822",
     "PLUM_22": "#141119",
     "PLUM_19": "#363240",
     "PLUM_3": "#cdd6f4",
@@ -229,7 +231,8 @@
       "ic_add_text": "#9B98AB",
       "ic_at": "#9B98AB",
       "ic_download_24px": "#cdd6f4",
-      "ic_overflow_android": "#cdd6f4" 
+      "ic_overflow_android": "#cdd6f4",
+      "ic_nitro_rep_24px": "#9B98AB" 
     }
   },
     "spec": 2
